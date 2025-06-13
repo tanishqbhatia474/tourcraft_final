@@ -25,7 +25,7 @@ const data: dataval = [
     },
     {
         message: "From planning to execution, everything was flawless. The AI truly understood my preferences.",
-        customer: "Ankit Verma",
+        customer: "Priyanshu goel",
         owner: "Freelancer",
     },
     {
