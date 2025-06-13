@@ -1,0 +1,172 @@
+{
+    "sights": [
+      {
+        "title": "Red Fort",
+        "description": "Fortress",
+        "rating": 4.5,
+        "reviews": 157000,
+        "price": "$2.98",
+        "extracted_price": 2.98,
+        "thumbnail": "https://serpapi.com/searches/66c99ebd9109864f9c8e2109/images/b79189c1a825a112c3cea7589a0ebf8221a9049dea2fe7a5e7bf1b71cb315a9e.jpeg"
+      },
+      {
+        "title": "India Gate",
+        "description": "Monument",
+        "rating": 4.6,
+        "reviews": 271000,
+        "price": "Free",
+        "thumbnail": "https://serpapi.com/searches/66c99ebd9109864f9c8e2109/images/b79189c1a825a112c3cea7589a0ebf82f33d4d38366f3110cbe8e8b2e5e169e0.jpeg"
+      },
+      {
+        "title": "Humayun’s Tomb",
+        "description": "Historical landmark",
+        "rating": 4.5,
+        "reviews": 42000,
+        "price": "$7.15",
+        "extracted_price": 7.15,
+        "thumbnail": "https://serpapi.com/searches/66c99ebd9109864f9c8e2109/images/b79189c1a825a112c3cea7589a0ebf826b670332639e42294b6584f341f31f52.jpeg"
+      },
+      {
+        "title": "Lotus Temple",
+        "description": "Bahá'í house of worship",
+        "rating": 4.5,
+        "reviews": 62000,
+        "price": "Free",
+        "thumbnail": "https://serpapi.com/searches/66c99ebd9109864f9c8e2109/images/b79189c1a825a112c3cea7589a0ebf8243305695599db631b57270f909ccadf0.jpeg"
+      },
+      {
+        "title": "Lodhi Garden",
+        "description": "Garden",
+        "rating": 4.5,
+        "reviews": 50000,
+        "price": "Free",
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMnz97ls0z-NO36NYgxhII6H1Fzm1qXZ5RIHu4b=w148-h148-n-k-no"
+      },
+      {
+        "title": "Gurudwara Shri Bangla Sahib",
+        "description": "Gurudwara",
+        "rating": 4.8,
+        "reviews": 108000,
+        "price": "Free",
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOFnVYmE43-zxx_dGsG5TQ2ma38RFVcUt7LanE=w148-h148-n-k-no"
+      },
+      {
+        "title": "Akshardham",
+        "description": "Hindu temple",
+        "rating": 4.6,
+        "reviews": 42000,
+        "price": "Free",
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/GuuP9z9f8AKP6XBhTDH-3553S3iYXWOmXW0mj0fOzIGwzOj6agHwkQykP2dlphSEKYAEe-i_YVqVwBvSs_Figq_UdbfHxbwlzHmdnqYX03fVg1SZNTtiWb-IOE_kKN-d2wMXX3KztkwY5xB0uz61-adaZpsSwSw=w148-h148-n-k-no"
+      },
+      {
+        "title": "Jama Masjid",
+        "description": "Mosque",
+        "rating": 4.5,
+        "reviews": 53000,
+        "price": "$3.57",
+        "extracted_price": 3.57,
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP2fJjXnCg-pJvnwTOhCsHxyCsySJHPK9m-jPnU=w148-h148-n-k-no"
+      },
+      {
+        "title": "National Museum, New Delhi",
+        "description": "National museum",
+        "rating": 4.6,
+        "reviews": 18000,
+        "price": "$5.96",
+        "extracted_price": 5.96,
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMsL2RWpWOK6iz1faIJcd_gJdEZs4n_M7gTo8Bh=w148-h148-n-k-no"
+      },
+      {
+        "title": "Rajghat",
+        "description": "Memorial",
+        "rating": 4.5,
+        "reviews": 30000,
+        "price": "Free",
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/lGH2BnV0nFiW2Khw74o9CvBIHqCCUNkq1X3XBjqbUkLHAj3CjjXA_cFn0fD9YkJ5X8lDSRS5CD5_aCkZGTTrCXGkp3d54aOjRZx9kquwEM5QMglVDMensl_C7_y-lICeSTrwyCx7rSB6ZXx7x2C9lSZ67bvLBg=w148-h148-n-k-no"
+      },
+      {
+        "title": "Shri Laxmi Narayan Temple (Birla Mandir)",
+        "description": "Hindu temple",
+        "rating": 4.6,
+        "reviews": 15000,
+        "price": "Free",
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNxScpPMotwHXhL_S_M67ylaW0jkcNnD6yYP0Ic=w148-h148-n-k-no"
+      },
+      {
+        "title": "Rashtrapati Bhavan",
+        "description": "Federal government office",
+        "rating": 4.7,
+        "reviews": 9700,
+        "price": "$0.60",
+        "extracted_price": 0.6,
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO9sWKSFhyphio3Hv41vqsJePEh-dXQsmtPTgMO=w148-h148-n-k-no"
+      },
+      {
+        "title": "Dargah Hazrat Nizamuddin Aulia",
+        "description": "Shrine",
+        "rating": 4.6,
+        "reviews": 23000,
+        "price": "Free",
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNq11fGAzm5lvvQRi7IKAEhNhBfW4hdTepJlR0W=w148-h148-n-k-no"
+      },
+      {
+        "title": "Dilli Haat - INA",
+        "description": "Exhibition and trade centre",
+        "rating": 4.3,
+        "reviews": 41000,
+        "price": "$1.19",
+        "extracted_price": 1.19,
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOdzjoeIYVMB81SnTabX1xEuySSr869sZeP0kz9=w148-h148-n-k-no"
+      },
+      {
+        "title": "Jantar Mantar",
+        "description": "Observatory",
+        "rating": 4.2,
+        "reviews": 32000,
+        "price": "$2.98",
+        "extracted_price": 2.98,
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMYZbJVmc5nM3kc6ErCUDV4cQS54cCniIxTy4MY=w148-h148-n-k-no"
+      },
+      {
+        "title": "National Rail Museum",
+        "description": "Rail museum",
+        "rating": 4.4,
+        "reviews": 25000,
+        "price": "$0.60",
+        "extracted_price": 0.6,
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP9rYBNUfpH5V7P-64WH67NVd3SnVoyWX8vqoow=w148-h148-n-k-no"
+      },
+      {
+        "title": "Safdarjung Tomb",
+        "description": "Monument",
+        "rating": 4.4,
+        "reviews": 15000,
+        "price": "$3.57",
+        "extracted_price": 3.57,
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNbKj4qE9bQDpEHiSGuEGUEkgkeFOHlPVEZVnkm=w148-h148-n-k-no"
+      },
+      {
+        "title": "Khan Market",
+        "description": "Market",
+        "rating": 4.4,
+        "reviews": 60000,
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNsFfPNGstLZvB8cHSxn6K1i33avTMoTbUlqJ1J=w148-h148-n-k-no"
+      },
+      {
+        "title": "National Gallery of Modern Art",
+        "description": "Art gallery",
+        "rating": 4.5,
+        "reviews": 8400,
+        "price": "$5.96",
+        "extracted_price": 5.96,
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMqe2haCV58Fk-Mp42whPQ49a8fc8qc6LX1_upG=w148-h148-n-k-no"
+      },
+      {
+        "title": "National Crafts Museum & Hastkala Academy",
+        "description": "Handicraft museum",
+        "rating": 4.5,
+        "reviews": 6700,
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMYXEGeLP45CnjlAotjFXlZEG588b2xmCGd2DCc=w148-h148-n-k-no"
+      }
+    ]
+  }

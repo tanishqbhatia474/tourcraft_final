@@ -1,0 +1,62 @@
+[
+    {
+      "title": "Paranthe Wali Gali",
+      "location": "Chandni Chowk",
+      "description": "Famous for its variety of stuffed parathas, this place offers an authentic taste of Delhi street food.",
+      "cost": 1
+    },
+    {
+      "title": "Kake Di Hatti",
+      "location": "Chandni Chowk",
+      "description": "Renowned for its North Indian vegetarian dishes, especially the stuffed naans and rich curries.",
+      "cost": 2
+    },
+    {
+      "title": "Karim's",
+      "location": "Jama Masjid",
+      "description": "An iconic eatery known for its Mughlai cuisine, including kebabs, biryanis, and curries.",
+      "cost": 3
+    },
+    {
+      "title": "Saravana Bhavan",
+      "location": "Connaught Place",
+      "description": "Popular for its South Indian vegetarian cuisine, offering dosas, idlis, and thalis.",
+      "cost": 2
+    },
+    {
+      "title": "Bukhara",
+      "location": "ITC Maurya, Chanakyapuri",
+      "description": "A luxurious dining experience offering North-West Frontier cuisine, famous for its kebabs and dal Bukhara.",
+      "cost": 5
+    },
+    {
+      "title": "Indian Accent",
+      "location": "The Lodhi, Lodhi Road",
+      "description": "An upscale restaurant offering innovative Indian cuisine with a modern twist.",
+      "cost": 5
+    },
+    {
+      "title": "Haldiram's",
+      "location": "Multiple Locations",
+      "description": "A popular chain offering a wide variety of Indian snacks, sweets, and quick meals.",
+      "cost": 2
+    },
+    {
+      "title": "Lodi - The Garden Restaurant",
+      "location": "Lodhi Road",
+      "description": "Set in a lush garden, this restaurant offers a serene dining experience with a mix of European, Mediterranean, and Indian dishes.",
+      "cost": 4
+    },
+    {
+      "title": "Sitaram Diwan Chand",
+      "location": "Paharganj",
+      "description": "Famous for its Chole Bhature, this place is a must-visit for a hearty breakfast or lunch.",
+      "cost": 1
+    },
+    {
+      "title": "Cafe Lota",
+      "location": "National Crafts Museum, Pragati Maidan",
+      "description": "A contemporary cafe offering regional Indian dishes with a modern twist, set in a cultural ambiance.",   
+      "cost": 3
+    }
+  ]

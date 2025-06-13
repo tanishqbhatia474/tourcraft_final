@@ -1,0 +1,164 @@
+{
+    "days": [
+      {
+        "day_number": 1,
+        "activities": [
+          {
+            "title": "Breakfast at Lodi - The Garden Restaurant",
+            "description": "Start your day with a romantic breakfast at Lodi - The Garden Restaurant, known for its beautiful garden setting.",
+            "type": "Dining",
+            "time": "Early Morning",
+            "location": "Lodhi Road, Opp. Mausam Bhavan, New Delhi",
+            "cost": 3 
+          },
+          {
+            "title": "Visit Qutub Minar",
+            "description": "Explore the historical Qutub Minar, a UNESCO World Heritage site.",
+            "type": "Sightseeing",
+            "time": "Morning",
+            "location": "Mehrauli, New Delhi",
+            "cost": 2
+          },
+          {
+            "title": "Lunch at Hauz Khas Village",
+            "description": "Enjoy a delightful lunch at one of the trendy cafes in Hauz Khas Village.",
+            "type": "Dining",
+            "time": "Afternoon",
+            "location": "Hauz Khas Village, New Delhi",
+            "cost": 3
+          },
+          {
+            "title": "Shopping at Dilli Haat",
+            "description": "Shop for handicrafts and souvenirs at Dilli Haat, an open-air market.",
+            "type": "Shopping",
+            "time": "Late Afternoon",
+            "location": "INA Market, New Delhi",
+            "cost": 2
+          },
+          {
+            "title": "Dinner at Indian Accent",
+            "description": "Dine at Indian Accent, one of Delhi's most acclaimed restaurants.",
+            "type": "Dining",
+            "time": "Evening",
+            "location": "The Lodhi, Lodhi Road, New Delhi",
+            "cost": 4
+          },
+          {
+            "title": "Nightlife at Connaught Place",
+            "description": "Experience the vibrant nightlife at Connaught Place with its numerous bars and clubs.",
+            "type": "Entertainment",
+            "time": "Night",
+            "location": "Connaught Place, New Delhi",
+            "cost": 3
+          }
+        ]
+      },
+      {
+        "day_number": 2,
+        "activities": [
+          {
+            "title": "Morning Walk at Lodhi Gardens",
+            "description": "Take a peaceful morning walk at Lodhi Gardens.",
+            "type": "Nature",
+            "time": "Early Morning",
+            "location": "Lodhi Road, New Delhi",
+            "cost": 1
+          },
+          {
+            "title": "Visit Humayun's Tomb",
+            "description": "Explore the stunning Humayun's Tomb, another UNESCO World Heritage site.",
+            "type": "Sightseeing",
+            "time": "Morning",
+            "location": "Mathura Road, Nizamuddin, New Delhi",
+            "cost": 2
+          },
+          {
+            "title": "Lunch at Saravana Bhavan",
+            "description": "Enjoy a delicious South Indian meal at Saravana Bhavan.",
+            "type": "Dining",
+            "time": "Afternoon",
+            "location": "Connaught Place, New Delhi",
+            "cost": 2
+          },
+          {
+            "title": "Shopping at Khan Market",
+            "description": "Visit Khan Market for some upscale shopping and boutique stores.",
+            "type": "Shopping",
+            "time": "Late Afternoon",
+            "location": "Khan Market, New Delhi",
+            "cost": 3
+          },
+          {
+            "title": "Dinner at Olive Bar & Kitchen",
+            "description": "Have a romantic dinner at Olive Bar & Kitchen, known for its Mediterranean cuisine.",
+            "type": "Dining",
+            "time": "Evening",
+            "location": "Mehrauli, New Delhi",
+            "cost": 4
+          },
+          {
+            "title": "Nightlife at Hauz Khas Village",
+            "description": "Experience the nightlife at Hauz Khas Village with its lively bars and clubs.",
+            "type": "Entertainment",
+            "time": "Night",
+            "location": "Hauz Khas Village, New Delhi",
+            "cost": 3
+          }
+        ]
+      },
+      {
+        "day_number": 3,
+        "activities": [
+          {
+            "title": "Breakfast at Café Lota",
+            "description": "Start your day with a hearty breakfast at Café Lota.",
+            "type": "Dining",
+            "time": "Early Morning",
+            "location": "National Crafts Museum, Pragati Maidan, New Delhi",
+            "cost": 3
+          },
+          {
+            "title": "Visit India Gate",
+            "description": "Visit the iconic India Gate and take a leisurely stroll around the area.",
+            "type": "Sightseeing",
+            "time": "Morning",
+            "location": "Rajpath, New Delhi",
+            "cost": 1
+          },
+          {
+            "title": "Lunch at Karim's",
+            "description": "Savor the famous Mughlai cuisine at Karim's in Old Delhi.",
+            "type": "Dining",
+            "time": "Afternoon",
+            "location": "Jama Masjid, Old Delhi",
+            "cost": 2
+          },
+          {
+            "title": "Shopping at Chandni Chowk",
+            "description": "Explore the bustling markets of Chandni Chowk for some traditional shopping.",
+            "type": "Shopping",
+            "time": "Late Afternoon",
+            "location": "Chandni Chowk, Old Delhi",
+            "cost": 2
+          },
+          {
+            "title": "Dinner at Parikrama - The Revolving Restaurant",
+            "description": "Enjoy a unique dining experience at Parikrama, a revolving restaurant offering panoramic views of Delhi.",
+            "type": "Dining",
+            "time": "Evening",
+            "location": "Connaught Place, New Delhi",
+            "cost": 4
+          },
+          {
+            "title": "Nightlife at Aerocity",
+            "description": "End your trip with a night out at Aerocity, known for its upscale bars and lounges.",
+            "type": "Entertainment",
+            "time": "Night",
+            "location": "Aerocity, New Delhi",
+            "cost": 3
+          }
+        ]
+      }
+    ]
+  }
+  
