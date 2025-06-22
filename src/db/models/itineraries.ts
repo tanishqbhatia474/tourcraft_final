@@ -67,4 +67,5 @@ const ItinerarySchema = new Schema<ItineraryDocument>({
 // Create the Mongoose model
 const ItineraryModel = mongoose.models.Itinerary || model<ItineraryDocument>('Itinerary', ItinerarySchema);
 
+
 export default ItineraryModel;
