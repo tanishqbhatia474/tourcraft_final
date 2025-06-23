@@ -31,7 +31,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ● Backend:
 ○ Axios: HTTP client used for making API requests to external services.
-○ Hyperleap APIs: Leveraged for providing a seamless wrapper to GPT-4o prompts for creating custom
+○ groq APIs: Leveraged for providing a seamless wrapper to GPT-4o prompts for creating custom
 itinerary content, FAQs, and more.
 ○ SerpAPI: Used for scraping Google search results to fetch popular destinations and other relevant data.
 ○ MongoDB: NoSQL database used for storing itineraries and other user-generated content. The choice of
