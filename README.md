@@ -33,7 +33,6 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ○ Axios: HTTP client used for making API requests to external services.
 ○ groq APIs: Leveraged for providing a seamless wrapper to GPT-4o prompts for creating custom
 itinerary content, FAQs, and more.
-○ SerpAPI: Used for scraping Google search results to fetch popular destinations and other relevant data.
 ○ MongoDB: NoSQL database used for storing itineraries and other user-generated content. The choice of
 MongoDB allows for flexible schema design and easy scalability.
 
@@ -48,7 +47,6 @@ activities, eateries, FAQs, and popular destinations.
 
 ● Shareable Links: Users receive a unique link to their itinerary, which can be shared with others.
 
-● Chatbot Integration: An AI-powered chatbot is available to assist users with their travel planning questions.
 
 ● Loading Screen: A thoughtfully designed loading screen keeps users engaged with rotating images and texts
 while the itinerary is being generated.
